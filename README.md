@@ -1,6 +1,6 @@
 # Hi there, I'm Sagar Solanki 👋
 
-🚀 I am a **.NET Full Stack & DevOps Engineer**.
+🚀 I am a **ASP.NET MVC & DevOps Engineer**.
 
 ---
 
@@ -11,15 +11,15 @@
 - 💬 Ask me about **C#, ASP.NET Core MVC, Entity Framework Core, Docker, CI/CD, and Azure**.
 - 🤝 Open to collaborate on **.NET Microservices, Cloud Infrastructure, and DevOps Automation** projects.
 - ⚡ Focused on clean architecture, containerization, and reliable deployment pipelines.
-- 📫 Reach me at **your.email@gmail.com**
+- 📫 Reach me at **solankisagar499**
 
 ---
 
 ### 🤝 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-id)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solankisagar499@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sagar-solanki1122/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solankisagar223)
 
 ---
 
