@@ -11,7 +11,7 @@
 - 💬 Ask me about **C#, ASP.NET Core MVC, Entity Framework Core, Docker, CI/CD, and Azure**.
 - 🤝 Open to collaborate on **.NET Microservices, Cloud Infrastructure, and DevOps Automation** projects.
 - ⚡ Focused on clean architecture, containerization, and reliable deployment pipelines.
-- 📫 Reach me at **solankisagar499**
+- 📫 Reach me at **solankisagar499@gmail.com**
 
 ---
 
